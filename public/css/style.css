@@ -19,7 +19,7 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	background: rgb(255, 251, 210);
+	background: rgb(247, 241, 191);
 	margin: 20px;
 }
 
@@ -201,7 +201,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(27,27,27,1) 50%, rgba(
 
 .buttoncolor1 {
 	background: #8d0404;
-
+}
 .button1 {
 	font-size: 20px;
 	position: relative;
