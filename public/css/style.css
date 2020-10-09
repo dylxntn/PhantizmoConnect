@@ -200,3 +200,14 @@ a {
 	background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(27,27,27,1) 50%, rgba(0,0,0,1) 100%);
 }
+
+.buttoncolor1 {
+	background: rgb(105,0,0);
+	background: linear-gradient(90deg, rgba(105,0,0,1) 0%, rgba(164,0,0,1) 50%, rgba(74,0,0,1) 100%);
+}
+
+.button1 {
+	font-size: 20px;
+	position: relative;
+	bottom: 4px;
+}
