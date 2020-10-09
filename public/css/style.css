@@ -4,9 +4,7 @@
 	/*--dark-color-a: #1a1a1a; */
 	--dark-color-a: rgb(0,0,0);
 	--dark-color-a: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(27,27,27,1) 50%, rgba(0,0,0,1) 100%);
-	/*--dark-color-b: #8d0404;*/
-	--dark-color-b: rgb(105,0,0);
-	--dark-color-b: linear-gradient(90deg, rgba(105,0,0,1) 0%, rgba(164,0,0,1) 50%, rgba(74,0,0,1) 100%);
+    --dark-color-b: #8d0404;
 	--light-color: #ffffff;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
@@ -202,9 +200,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(27,27,27,1) 50%, rgba(
 }
 
 .buttoncolor1 {
-	background: rgb(105,0,0);
-	background: linear-gradient(90deg, rgba(105,0,0,1) 0%, rgba(164,0,0,1) 50%, rgba(74,0,0,1) 100%);
-}
+	background: #8d0404;
 
 .button1 {
 	font-size: 20px;
