@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="cardcontainer"><img class="galleryImg" src="walket.png" height="190px"></div>
+
+<style>
+    @keyframes zoominoutsinglefeatured {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.cardcontainer img {
+	animation: zoominoutsinglefeatured 4s infinite ;
+    position: relative;
+    left: 520px;
+    top: 215px;
+}
+</style>
+</body>
+</html>
